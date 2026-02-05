@@ -1,16 +1,33 @@
-# mis_labs1
+# Exam Timetable App (Flutter)
 
-A new Flutter project.
+A Flutter mobile application that displays an official exam timetable provided by professors.  
+The app allows students to view upcoming exams and see how much time is left until each exam, or whether an exam has already passed.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+- Display exam timetable provided by professors  
+- Show exam details such as subject, date, time, and location  
+- Countdown showing time remaining until an exam  
+- Status indicator for past exams  
+- Clear and simple user interface optimized for students  
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Technologies Used
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Flutter (Dart)
+- Material Design
+
+---
+
+## Screenshots
+
+### Timetable Overview
+![Timetable Screen](Screenshot_20251109_180355.png)
+
+### Upcoming Exam Countdown
+![Detail Exam Screen](Screenshot_20251109_180515.png)
+
+### Exam that has passed
+![Detail Exam Screen](Screenshot_20251109_180455.png)
